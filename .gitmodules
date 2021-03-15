@@ -1,0 +1,12 @@
+[submodule "IST687-southeast-airlines-customer-churn"]
+	path = IST687-southeast-airlines-customer-churn
+	url = https://github.com/aatishsuman/IST687-southeast-airlines-customer-churn
+[submodule "IST736-sentiment-analysis-twitter"]
+	path = IST736-sentiment-analysis-twitter
+	url = https://github.com/aatishsuman/IST736-sentiment-analysis-twitter
+[submodule "IST700-zooniverse-online-learning"]
+	path = IST700-zooniverse-online-learning
+	url = https://github.com/aatishsuman/IST700-zooniverse-online-learning
+[submodule "IST615-FaceIt"]
+	path = IST615-FaceIt
+	url = https://github.com/aatishsuman/IST615-FaceIt
